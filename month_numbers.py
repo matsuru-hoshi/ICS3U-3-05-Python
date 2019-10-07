@@ -39,7 +39,7 @@ def main():
     elif number == 11:
         print("November")
     elif number == 12:
-        print("Decemeber")
+        print("December")
     else:
         print("Invalid input")
 
